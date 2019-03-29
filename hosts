@@ -1,0 +1,7 @@
+[servers]
+centos1
+centos2
+
+[servers:vars]
+username=rajeev
+user_desc="Admin Team"
